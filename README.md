@@ -25,7 +25,7 @@ This project focuses on classifying leukemia and breast cancer using deep learni
 │   ├── gan_image_generator.ipynb    # Generates synthetic breast cancer images  
 │  
 │── 📂 cnn-architectures  
-│   ├── cnn_architectures.ipynb         # Implements ResNet50, InceptionV3, EfficientNetB3  
+│   ├── cnn_architectures.ipynb      # Implements ResNet50, InceptionV3, EfficientNetB3  
 │  
 │── requirements.txt                 # Required dependencies  
 │── README.md                        # Instructions (this file)  
